@@ -1,0 +1,10 @@
+{"dataset": "markdown", "task_id": "HumanEval/97", "prompt_id": 97, "execution_id": 0, "response": "```python\ndef multiply(a, b):\n    return abs(a % 10) * abs(b % 10)\n```", "gen_duration": 0.9023997999975109}
+{"dataset": "markdown", "task_id": "HumanEval/97", "prompt_id": 97, "execution_id": 1, "response": "```python\ndef multiply(a, b):\n    return (abs(a) % 10) * (abs(b) % 10)\n```", "gen_duration": 0.8776140999980271}
+{"dataset": "markdown", "task_id": "HumanEval/97", "prompt_id": 97, "execution_id": 2, "response": "```python\ndef multiply(a, b):\n    return (abs(a) % 10) * (abs(b) % 10)\n```", "gen_duration": 1.3354125999976532}
+{"dataset": "markdown", "task_id": "HumanEval/97", "prompt_id": 97, "execution_id": 3, "response": "```python\ndef multiply(a, b):\n    return (abs(a) % 10) * (abs(b) % 10)\n```", "gen_duration": 1.0131887000025017}
+{"dataset": "markdown", "task_id": "HumanEval/97", "prompt_id": 97, "execution_id": 4, "response": "```python\ndef multiply(a, b):\n    return abs((a % 10) * (b % 10))\n```", "gen_duration": 1.012392999997246}
+{"dataset": "markdown", "task_id": "HumanEval/97", "prompt_id": 97, "execution_id": 5, "response": "```python\ndef multiply(a, b):\n    return abs((a % 10) * (b % 10))\n```", "gen_duration": 0.8112594000012905}
+{"dataset": "markdown", "task_id": "HumanEval/97", "prompt_id": 97, "execution_id": 6, "response": "```python\ndef multiply(a, b):\n    return abs(a % 10) * abs(b % 10)\n```", "gen_duration": 1.118306099997426}
+{"dataset": "markdown", "task_id": "HumanEval/97", "prompt_id": 97, "execution_id": 7, "response": "```python\ndef multiply(a, b):\n    return (abs(a) % 10) * (abs(b) % 10)\n```", "gen_duration": 1.185951200001}
+{"dataset": "markdown", "task_id": "HumanEval/97", "prompt_id": 97, "execution_id": 8, "response": "```python\ndef multiply(a, b):\n    return abs(a % 10) * abs(b % 10)\n```", "gen_duration": 1.1380411999998614}
+{"dataset": "markdown", "task_id": "HumanEval/97", "prompt_id": 97, "execution_id": 9, "response": "```python\ndef multiply(a, b):\n    return (abs(a) % 10) * (abs(b) % 10)\n```", "gen_duration": 0.860165700003563}

@@ -1,0 +1,10 @@
+{"dataset": "json", "task_id": "HumanEval/41", "prompt_id": 41, "execution_id": 0, "response": "```python\ndef car_race_collision(n: int):\n    return n\n```", "gen_duration": 0.6963288999995711}
+{"dataset": "json", "task_id": "HumanEval/41", "prompt_id": 41, "execution_id": 1, "response": "```python\ndef car_race_collision(n: int):\n    return n\n```", "gen_duration": 1.2535728999991989}
+{"dataset": "json", "task_id": "HumanEval/41", "prompt_id": 41, "execution_id": 2, "response": "```python\ndef car_race_collision(n: int):\n    return n\n```", "gen_duration": 0.8133170000000973}
+{"dataset": "json", "task_id": "HumanEval/41", "prompt_id": 41, "execution_id": 3, "response": "```python\ndef car_race_collision(n: int):\n    return n\n```", "gen_duration": 0.6683665000000474}
+{"dataset": "json", "task_id": "HumanEval/41", "prompt_id": 41, "execution_id": 4, "response": "```python\ndef car_race_collision(n: int):\n    return n\n```", "gen_duration": 0.6807654000003822}
+{"dataset": "json", "task_id": "HumanEval/41", "prompt_id": 41, "execution_id": 5, "response": "```python\ndef car_race_collision(n: int):\n    return n\n```", "gen_duration": 0.7184625999998389}
+{"dataset": "json", "task_id": "HumanEval/41", "prompt_id": 41, "execution_id": 6, "response": "```python\ndef car_race_collision(n: int):\n    return n\n```", "gen_duration": 0.7539974999999686}
+{"dataset": "json", "task_id": "HumanEval/41", "prompt_id": 41, "execution_id": 7, "response": "```python\ndef car_race_collision(n: int):\n    return n\n```", "gen_duration": 0.7101366999995662}
+{"dataset": "json", "task_id": "HumanEval/41", "prompt_id": 41, "execution_id": 8, "response": "```python\ndef car_race_collision(n: int):\n    return n\n```", "gen_duration": 0.6880149000007805}
+{"dataset": "json", "task_id": "HumanEval/41", "prompt_id": 41, "execution_id": 9, "response": "```python\ndef car_race_collision(n: int):\n    return n\n```", "gen_duration": 1.100882200000342}

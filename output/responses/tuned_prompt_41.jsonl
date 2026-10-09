@@ -1,0 +1,10 @@
+{"dataset": "tuned", "task_id": "HumanEval/41", "prompt_id": 41, "execution_id": 0, "response": "```python\ndef car_race_collision(n: int) -> int:\n    return n * n\n```", "gen_duration": 0.7790031999993516}
+{"dataset": "tuned", "task_id": "HumanEval/41", "prompt_id": 41, "execution_id": 1, "response": "```python\ndef car_race_collision(n: int):\n    return n * n\n```", "gen_duration": 0.689095499999894}
+{"dataset": "tuned", "task_id": "HumanEval/41", "prompt_id": 41, "execution_id": 2, "response": "```python\ndef car_race_collision(n: int) -> int:\n    return n * n\n```", "gen_duration": 0.9239899000003788}
+{"dataset": "tuned", "task_id": "HumanEval/41", "prompt_id": 41, "execution_id": 3, "response": "def car_race_collision(n: int) -> int:\n    return n * n", "gen_duration": 0.6284083999998984}
+{"dataset": "tuned", "task_id": "HumanEval/41", "prompt_id": 41, "execution_id": 4, "response": "```python\ndef car_race_collision(n: int) -> int:\n    return n * n\n```", "gen_duration": 0.7301939999997558}
+{"dataset": "tuned", "task_id": "HumanEval/41", "prompt_id": 41, "execution_id": 5, "response": "```python\ndef car_race_collision(n: int) -> int:\n    return n * n\n```", "gen_duration": 0.6785255000004327}
+{"dataset": "tuned", "task_id": "HumanEval/41", "prompt_id": 41, "execution_id": 6, "response": "```python\ndef car_race_collision(n: int) -> int:\n    return n * n\n```", "gen_duration": 0.840714900000421}
+{"dataset": "tuned", "task_id": "HumanEval/41", "prompt_id": 41, "execution_id": 7, "response": "```python\ndef car_race_collision(n: int) -> int:\n    return n * n\n```", "gen_duration": 0.73488129999987}
+{"dataset": "tuned", "task_id": "HumanEval/41", "prompt_id": 41, "execution_id": 8, "response": "```python\ndef car_race_collision(n: int) -> int:\n    return n * n\n```", "gen_duration": 0.847620100000313}
+{"dataset": "tuned", "task_id": "HumanEval/41", "prompt_id": 41, "execution_id": 9, "response": "```python\ndef car_race_collision(n: int) -> int:\n    return n * n\n```", "gen_duration": 0.8818146999992678}

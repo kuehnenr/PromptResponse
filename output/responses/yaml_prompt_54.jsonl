@@ -1,0 +1,10 @@
+{"dataset": "yaml", "task_id": "HumanEval/54", "prompt_id": 54, "execution_id": 0, "response": "```python\ndef same_chars(s0: str, s1: str) -> bool:\n    return set(s0) == set(s1)\n```", "gen_duration": 0.7104882999992697}
+{"dataset": "yaml", "task_id": "HumanEval/54", "prompt_id": 54, "execution_id": 1, "response": "```python\ndef same_chars(s0: str, s1: str):\n    return set(s0) == set(s1)\n```", "gen_duration": 0.7523712000001979}
+{"dataset": "yaml", "task_id": "HumanEval/54", "prompt_id": 54, "execution_id": 2, "response": "```python\ndef same_chars(s0: str, s1: str):\n    return set(s0) == set(s1)\n```", "gen_duration": 1.1514049000033992}
+{"dataset": "yaml", "task_id": "HumanEval/54", "prompt_id": 54, "execution_id": 3, "response": "```python\ndef same_chars(s0: str, s1: str):\n    return set(s0) == set(s1)\n```", "gen_duration": 0.8243380000021716}
+{"dataset": "yaml", "task_id": "HumanEval/54", "prompt_id": 54, "execution_id": 4, "response": "```python\ndef same_chars(s0: str, s1: str):\n    return set(s0) == set(s1)\n```", "gen_duration": 0.7999830999979167}
+{"dataset": "yaml", "task_id": "HumanEval/54", "prompt_id": 54, "execution_id": 5, "response": "```python\ndef same_chars(s0: str, s1: str):\n    return set(s0) == set(s1)\n```", "gen_duration": 0.6650036999999429}
+{"dataset": "yaml", "task_id": "HumanEval/54", "prompt_id": 54, "execution_id": 6, "response": "```python\ndef same_chars(s0: str, s1: str):\n    return set(s0) == set(s1)\n```", "gen_duration": 0.7828369999988354}
+{"dataset": "yaml", "task_id": "HumanEval/54", "prompt_id": 54, "execution_id": 7, "response": "```python\ndef same_chars(s0: str, s1: str):\n    return set(s0) == set(s1)\n```", "gen_duration": 1.0436082000014721}
+{"dataset": "yaml", "task_id": "HumanEval/54", "prompt_id": 54, "execution_id": 8, "response": "```python\ndef same_chars(s0: str, s1: str):\n    return set(s0) == set(s1)\n```", "gen_duration": 0.7878519000005326}
+{"dataset": "yaml", "task_id": "HumanEval/54", "prompt_id": 54, "execution_id": 9, "response": "```python\ndef same_chars(s0: str, s1: str):\n    return set(s0) == set(s1)\n```", "gen_duration": 0.8517199999987497}

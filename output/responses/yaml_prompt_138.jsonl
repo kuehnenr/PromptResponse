@@ -1,0 +1,10 @@
+{"dataset": "yaml", "task_id": "HumanEval/138", "prompt_id": 138, "execution_id": 0, "response": "```python\ndef is_equal_to_sum_even(n):\n    return n >= 8 and n % 2 == 0\n```", "gen_duration": 1.0360140999982832}
+{"dataset": "yaml", "task_id": "HumanEval/138", "prompt_id": 138, "execution_id": 1, "response": "```python\ndef is_equal_to_sum_even(n):\n    return n >= 8 and n % 2 == 0\n```", "gen_duration": 1.0216054000011354}
+{"dataset": "yaml", "task_id": "HumanEval/138", "prompt_id": 138, "execution_id": 2, "response": "```python\ndef is_equal_to_sum_even(n):\n    return n >= 8 and n % 2 == 0\n```", "gen_duration": 1.3883600999979535}
+{"dataset": "yaml", "task_id": "HumanEval/138", "prompt_id": 138, "execution_id": 3, "response": "```python\ndef is_equal_to_sum_even(n):\n    return n >= 8 and n % 2 == 0\n```", "gen_duration": 1.0694141999993008}
+{"dataset": "yaml", "task_id": "HumanEval/138", "prompt_id": 138, "execution_id": 4, "response": "```python\ndef is_equal_to_sum_even(n):\n    return n >= 8 and n % 2 == 0\n```", "gen_duration": 2.407130800002051}
+{"dataset": "yaml", "task_id": "HumanEval/138", "prompt_id": 138, "execution_id": 5, "response": "```python\ndef is_equal_to_sum_even(n):\n    return n >= 8 and n % 2 == 0\n```", "gen_duration": 1.4358871000004}
+{"dataset": "yaml", "task_id": "HumanEval/138", "prompt_id": 138, "execution_id": 6, "response": "```python\ndef is_equal_to_sum_even(n):\n    return n > 0 and n % 4 == 0\n```", "gen_duration": 0.9247041000016907}
+{"dataset": "yaml", "task_id": "HumanEval/138", "prompt_id": 138, "execution_id": 7, "response": "```python\ndef is_equal_to_sum_even(n):\n    return n >= 8 and n % 2 == 0\n```", "gen_duration": 0.9710508999996819}
+{"dataset": "yaml", "task_id": "HumanEval/138", "prompt_id": 138, "execution_id": 8, "response": "```python\ndef is_equal_to_sum_even(n):\n    return n >= 8 and n % 2 == 0\n```", "gen_duration": 0.9068611999973655}
+{"dataset": "yaml", "task_id": "HumanEval/138", "prompt_id": 138, "execution_id": 9, "response": "```python\ndef is_equal_to_sum_even(n):\n    return n >= 8 and n % 2 == 0\n```", "gen_duration": 1.1724223000019265}

@@ -23,3 +23,27 @@ The controlled experiment itself is documented in ``Request_and_Evaluate_OpenAI.
 3. Run the test cases on all implemented code fragments.
 
 During steps 2 and 3, the dependent variables <span style="font-variant: small-caps;">PassRate</span>, <span style="font-variant: small-caps;">GenDuration</span>, <span style="font-variant: small-caps;">EvalDuration</span>, <span style="font-variant: small-caps;">PassDuration</span>, <span style="font-variant: small-caps;">ResponseLen</span>, and <span style="font-variant: small-caps;">Rouge-L</span> are being measured/calculated.
+
+
+
+## Results & Statistical Analysis
+The experimental data of our experiment can be found under ``output/``, including the raw LLM responses of all 8200 executions (``output/responses``), the results of their evaluation (``output/all_results.jsonl``), and the aggregated results (``output/agg_results.jsonl``).
+The notebook containing the R code of the conducted statistical significance analysis and generated box plots is made available in ``Analysis.ipynb``.
+
+
+
+## Citation
+The full-text paper is available on arXiv [here](https://arxiv.org/abs/2608.21074). Please cite this work as follows:
+
+```bibtex
+@misc{Thureck2026PromptResponse,
+      title={{PromptResponse}: Optimizing Prompts for {LLM} Coding Tasks}, 
+      author={Thureck, Erik and K{\"u}hnen, Robert and Jacobowitz, Tim},
+      year={2026},
+      eprint={2608.21074},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      doi={10.48550/arXiv.2608.21074},
+      url={https://arxiv.org/abs/2608.21074}
+}
+```

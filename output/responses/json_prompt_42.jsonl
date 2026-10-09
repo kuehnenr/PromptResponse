@@ -1,0 +1,10 @@
+{"dataset": "json", "task_id": "HumanEval/42", "prompt_id": 42, "execution_id": 0, "response": "```python\ndef incr_list(l: list):\n    return [x + 1 for x in l]\n```", "gen_duration": 0.8067721000006713}
+{"dataset": "json", "task_id": "HumanEval/42", "prompt_id": 42, "execution_id": 1, "response": "```python\ndef incr_list(l: list):\n    return [x + 1 for x in l]\n```", "gen_duration": 1.0354948999993212}
+{"dataset": "json", "task_id": "HumanEval/42", "prompt_id": 42, "execution_id": 2, "response": "```python\ndef incr_list(l: list):\n    return [x + 1 for x in l]\n```", "gen_duration": 0.9289938000001712}
+{"dataset": "json", "task_id": "HumanEval/42", "prompt_id": 42, "execution_id": 3, "response": "```python\ndef incr_list(l: list):\n    return [x + 1 for x in l]\n```", "gen_duration": 0.5085148000016488}
+{"dataset": "json", "task_id": "HumanEval/42", "prompt_id": 42, "execution_id": 4, "response": "```python\ndef incr_list(l: list):\n    return [x + 1 for x in l]\n```", "gen_duration": 0.6714763999989373}
+{"dataset": "json", "task_id": "HumanEval/42", "prompt_id": 42, "execution_id": 5, "response": "```python\ndef incr_list(l: list):\n    return [x + 1 for x in l]\n```", "gen_duration": 0.5521463000004587}
+{"dataset": "json", "task_id": "HumanEval/42", "prompt_id": 42, "execution_id": 6, "response": "```python\ndef incr_list(l: list):\n    return [x + 1 for x in l]\n```", "gen_duration": 0.607310099998358}
+{"dataset": "json", "task_id": "HumanEval/42", "prompt_id": 42, "execution_id": 7, "response": "```python\ndef incr_list(l: list):\n    return [x + 1 for x in l]\n```", "gen_duration": 0.6168982999988657}
+{"dataset": "json", "task_id": "HumanEval/42", "prompt_id": 42, "execution_id": 8, "response": "```python\ndef incr_list(l: list):\n    return [x + 1 for x in l]\n```", "gen_duration": 0.7681517000000895}
+{"dataset": "json", "task_id": "HumanEval/42", "prompt_id": 42, "execution_id": 9, "response": "```python\ndef incr_list(l: list):\n    return [x + 1 for x in l]\n```", "gen_duration": 0.7550594999993336}

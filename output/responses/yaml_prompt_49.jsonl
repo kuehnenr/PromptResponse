@@ -1,0 +1,10 @@
+{"dataset": "yaml", "task_id": "HumanEval/49", "prompt_id": 49, "execution_id": 0, "response": "```python\ndef modp(n: int, p: int) -> int:\n    return pow(2, n, p)\n```", "gen_duration": 0.999971799999912}
+{"dataset": "yaml", "task_id": "HumanEval/49", "prompt_id": 49, "execution_id": 1, "response": "```python\ndef modp(n: int, p: int):\n    return str(pow(2, n, p))\n```", "gen_duration": 1.1286337000019557}
+{"dataset": "yaml", "task_id": "HumanEval/49", "prompt_id": 49, "execution_id": 2, "response": "```python\ndef modp(n: int, p: int):\n    return pow(2, n, p)\n```", "gen_duration": 1.2688046000002942}
+{"dataset": "yaml", "task_id": "HumanEval/49", "prompt_id": 49, "execution_id": 3, "response": "```python\ndef modp(n: int, p: int) -> int:\n    return pow(2, n, p)\n```", "gen_duration": 0.7950302999997803}
+{"dataset": "yaml", "task_id": "HumanEval/49", "prompt_id": 49, "execution_id": 4, "response": "```python\ndef modp(n: int, p: int) -> str:\n    return str(pow(2, n, p))\n```", "gen_duration": 0.833926800001791}
+{"dataset": "yaml", "task_id": "HumanEval/49", "prompt_id": 49, "execution_id": 5, "response": "```python\ndef modp(n: int, p: int):\n    return str(pow(2, n, p))\n```", "gen_duration": 0.8586013999993156}
+{"dataset": "yaml", "task_id": "HumanEval/49", "prompt_id": 49, "execution_id": 6, "response": "```python\ndef modp(n: int, p: int) -> str:\n    return str(pow(2, n, p))\n```", "gen_duration": 0.885542500000156}
+{"dataset": "yaml", "task_id": "HumanEval/49", "prompt_id": 49, "execution_id": 7, "response": "```python\ndef modp(n: int, p: int) -> int:\n    return pow(2, n, p)\n```", "gen_duration": 0.7468637000019953}
+{"dataset": "yaml", "task_id": "HumanEval/49", "prompt_id": 49, "execution_id": 8, "response": "```python\ndef modp(n: int, p: int):\n    return str(pow(2, n, p))\n```", "gen_duration": 0.916184699999576}
+{"dataset": "yaml", "task_id": "HumanEval/49", "prompt_id": 49, "execution_id": 9, "response": "```python\ndef modp(n: int, p: int) -> int:\n    return pow(2, n, p)\n```", "gen_duration": 0.9573490000002494}

@@ -1,0 +1,10 @@
+{"dataset": "yaml", "task_id": "HumanEval/27", "prompt_id": 27, "execution_id": 0, "response": "```python\ndef flip_case(string: str) -> str:\n    return string.swapcase()\n```", "gen_duration": 0.7762112999989768}
+{"dataset": "yaml", "task_id": "HumanEval/27", "prompt_id": 27, "execution_id": 1, "response": "```python\ndef flip_case(string: str) -> str:\n    return string.swapcase()\n```", "gen_duration": 0.9418365000019548}
+{"dataset": "yaml", "task_id": "HumanEval/27", "prompt_id": 27, "execution_id": 2, "response": "```python\ndef flip_case(string: str) -> str:\n    return string.swapcase()\n```", "gen_duration": 0.6249489000001631}
+{"dataset": "yaml", "task_id": "HumanEval/27", "prompt_id": 27, "execution_id": 3, "response": "```python\ndef flip_case(string: str) -> str:\n    return string.swapcase()\n```", "gen_duration": 0.8708560000013676}
+{"dataset": "yaml", "task_id": "HumanEval/27", "prompt_id": 27, "execution_id": 4, "response": "```python\ndef flip_case(string: str) -> str:\n    return string.swapcase()\n```", "gen_duration": 1.4566057000010915}
+{"dataset": "yaml", "task_id": "HumanEval/27", "prompt_id": 27, "execution_id": 5, "response": "```python\ndef flip_case(string: str) -> str:\n    return string.swapcase()\n```", "gen_duration": 0.6453017000021646}
+{"dataset": "yaml", "task_id": "HumanEval/27", "prompt_id": 27, "execution_id": 6, "response": "```python\ndef flip_case(string: str) -> str:\n    return string.swapcase()\n```", "gen_duration": 0.9415746999984549}
+{"dataset": "yaml", "task_id": "HumanEval/27", "prompt_id": 27, "execution_id": 7, "response": "```python\ndef flip_case(string: str) -> str:\n    return string.swapcase()\n```", "gen_duration": 0.768790900001477}
+{"dataset": "yaml", "task_id": "HumanEval/27", "prompt_id": 27, "execution_id": 8, "response": "```python\ndef flip_case(string: str) -> str:\n    return string.swapcase()\n```", "gen_duration": 0.8053575999983877}
+{"dataset": "yaml", "task_id": "HumanEval/27", "prompt_id": 27, "execution_id": 9, "response": "```python\ndef flip_case(string: str) -> str:\n    return string.swapcase()\n```", "gen_duration": 0.8458473999999114}

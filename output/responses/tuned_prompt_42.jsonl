@@ -1,0 +1,10 @@
+{"dataset": "tuned", "task_id": "HumanEval/42", "prompt_id": 42, "execution_id": 0, "response": "```python\ndef incr_list(l: list):\n    return [x + 1 for x in l]\n```", "gen_duration": 0.5439863999999943}
+{"dataset": "tuned", "task_id": "HumanEval/42", "prompt_id": 42, "execution_id": 1, "response": "```python\ndef incr_list(l: list):\n    return [x + 1 for x in l]\n```", "gen_duration": 0.6196350000000166}
+{"dataset": "tuned", "task_id": "HumanEval/42", "prompt_id": 42, "execution_id": 2, "response": "```python\ndef incr_list(l: list):\n    return [x + 1 for x in l]\n```", "gen_duration": 0.6824109999997745}
+{"dataset": "tuned", "task_id": "HumanEval/42", "prompt_id": 42, "execution_id": 3, "response": "```python\ndef incr_list(l: list):\n    return [x + 1 for x in l]\n```", "gen_duration": 0.656658900000366}
+{"dataset": "tuned", "task_id": "HumanEval/42", "prompt_id": 42, "execution_id": 4, "response": "```python\ndef incr_list(l: list):\n    return [x + 1 for x in l]\n```", "gen_duration": 1.368871799999397}
+{"dataset": "tuned", "task_id": "HumanEval/42", "prompt_id": 42, "execution_id": 5, "response": "```python\ndef incr_list(l: list):\n    return [x + 1 for x in l]\n```", "gen_duration": 0.6952403000004779}
+{"dataset": "tuned", "task_id": "HumanEval/42", "prompt_id": 42, "execution_id": 6, "response": "```python\ndef incr_list(l: list):\n    return [x + 1 for x in l]\n```", "gen_duration": 0.6514103999998042}
+{"dataset": "tuned", "task_id": "HumanEval/42", "prompt_id": 42, "execution_id": 7, "response": "```python\ndef incr_list(l: list):\n    return [x + 1 for x in l]\n```", "gen_duration": 0.7676243000005343}
+{"dataset": "tuned", "task_id": "HumanEval/42", "prompt_id": 42, "execution_id": 8, "response": "```python\ndef incr_list(l: list):\n    return [x + 1 for x in l]\n```", "gen_duration": 0.6820013000005929}
+{"dataset": "tuned", "task_id": "HumanEval/42", "prompt_id": 42, "execution_id": 9, "response": "```python\ndef incr_list(l: list):\n    return [x + 1 for x in l]\n```", "gen_duration": 0.672935000000507}

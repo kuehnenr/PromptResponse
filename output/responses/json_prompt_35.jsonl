@@ -1,0 +1,10 @@
+{"dataset": "json", "task_id": "HumanEval/35", "prompt_id": 35, "execution_id": 0, "response": "```python\ndef max_element(l: list):\n    return max(l)\n```", "gen_duration": 0.7798746000007668}
+{"dataset": "json", "task_id": "HumanEval/35", "prompt_id": 35, "execution_id": 1, "response": "```python\ndef max_element(l: list):\n    return max(l)\n```", "gen_duration": 1.13892240000132}
+{"dataset": "json", "task_id": "HumanEval/35", "prompt_id": 35, "execution_id": 2, "response": "```python\ndef max_element(l: list):\n    return max(l)\n```", "gen_duration": 0.8495500000008178}
+{"dataset": "json", "task_id": "HumanEval/35", "prompt_id": 35, "execution_id": 3, "response": "```python\ndef max_element(l: list):\n    return max(l)\n```", "gen_duration": 0.6883591000005254}
+{"dataset": "json", "task_id": "HumanEval/35", "prompt_id": 35, "execution_id": 4, "response": "```python\ndef max_element(l: list):\n    return max(l)\n```", "gen_duration": 0.7516250999997283}
+{"dataset": "json", "task_id": "HumanEval/35", "prompt_id": 35, "execution_id": 5, "response": "```python\ndef max_element(l: list):\n    return max(l)\n```", "gen_duration": 0.9429446000012831}
+{"dataset": "json", "task_id": "HumanEval/35", "prompt_id": 35, "execution_id": 6, "response": "```python\ndef max_element(l: list):\n    return max(l)\n```", "gen_duration": 0.8232786999997188}
+{"dataset": "json", "task_id": "HumanEval/35", "prompt_id": 35, "execution_id": 7, "response": "```python\ndef max_element(l: list):\n    return max(l)\n```", "gen_duration": 0.9738520999999309}
+{"dataset": "json", "task_id": "HumanEval/35", "prompt_id": 35, "execution_id": 8, "response": "```python\ndef max_element(l: list):\n    return max(l)\n```", "gen_duration": 0.7331983999993099}
+{"dataset": "json", "task_id": "HumanEval/35", "prompt_id": 35, "execution_id": 9, "response": "```python\ndef max_element(l: list):\n    return max(l)\n```", "gen_duration": 0.7278346999992209}

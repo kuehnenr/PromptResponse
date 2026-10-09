@@ -1,0 +1,10 @@
+{"dataset": "vanilla", "task_id": "HumanEval/42", "prompt_id": 42, "execution_id": 0, "response": "```python\ndef incr_list(l: list):\n    return [x + 1 for x in l]\n```", "gen_duration": 1.0499887999994826}
+{"dataset": "vanilla", "task_id": "HumanEval/42", "prompt_id": 42, "execution_id": 1, "response": "```python\ndef incr_list(l: list):\n    return [x + 1 for x in l]\n```", "gen_duration": 1.1481892000001608}
+{"dataset": "vanilla", "task_id": "HumanEval/42", "prompt_id": 42, "execution_id": 2, "response": "```python\ndef incr_list(l: list):\n    return [x + 1 for x in l]\n```", "gen_duration": 3.1678921000002447}
+{"dataset": "vanilla", "task_id": "HumanEval/42", "prompt_id": 42, "execution_id": 3, "response": "```python\ndef incr_list(l: list):\n    return [x + 1 for x in l]\n```", "gen_duration": 1.0779916000001322}
+{"dataset": "vanilla", "task_id": "HumanEval/42", "prompt_id": 42, "execution_id": 4, "response": "```python\ndef incr_list(l: list):\n    return [x + 1 for x in l]\n```", "gen_duration": 0.6608900999999605}
+{"dataset": "vanilla", "task_id": "HumanEval/42", "prompt_id": 42, "execution_id": 5, "response": "```python\ndef incr_list(l: list):\n    return [x + 1 for x in l]\n```", "gen_duration": 0.8671494999998686}
+{"dataset": "vanilla", "task_id": "HumanEval/42", "prompt_id": 42, "execution_id": 6, "response": "```python\ndef incr_list(l: list):\n    return [x + 1 for x in l]\n```", "gen_duration": 1.3110031999995044}
+{"dataset": "vanilla", "task_id": "HumanEval/42", "prompt_id": 42, "execution_id": 7, "response": "```python\ndef incr_list(l: list):\n    return [x + 1 for x in l]\n```", "gen_duration": 0.8287784999993164}
+{"dataset": "vanilla", "task_id": "HumanEval/42", "prompt_id": 42, "execution_id": 8, "response": "```python\ndef incr_list(l: list):\n    return [x + 1 for x in l]\n```", "gen_duration": 1.0561502000000473}
+{"dataset": "vanilla", "task_id": "HumanEval/42", "prompt_id": 42, "execution_id": 9, "response": "```python\ndef incr_list(l: list):\n    return [x + 1 for x in l]\n```", "gen_duration": 0.7149774999998044}

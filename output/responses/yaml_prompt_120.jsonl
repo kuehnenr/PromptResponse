@@ -1,0 +1,10 @@
+{"dataset": "yaml", "task_id": "HumanEval/120", "prompt_id": 120, "execution_id": 0, "response": "```python\ndef maximum(arr, k):\n    return sorted(sorted(arr, reverse=True)[:k])\n```", "gen_duration": 0.5752127000014298}
+{"dataset": "yaml", "task_id": "HumanEval/120", "prompt_id": 120, "execution_id": 1, "response": "```python\ndef maximum(arr, k):\n    return sorted(arr)[-k:]\n```", "gen_duration": 0.6780522000008204}
+{"dataset": "yaml", "task_id": "HumanEval/120", "prompt_id": 120, "execution_id": 2, "response": "```python\ndef maximum(arr, k):\n    return sorted(arr)[-k:]\n```", "gen_duration": 0.4137166000000434}
+{"dataset": "yaml", "task_id": "HumanEval/120", "prompt_id": 120, "execution_id": 3, "response": "```python\ndef maximum(arr, k):\n    return sorted(arr)[-k:]\n```", "gen_duration": 0.5566756000007445}
+{"dataset": "yaml", "task_id": "HumanEval/120", "prompt_id": 120, "execution_id": 4, "response": "```python\ndef maximum(arr, k):\n    return sorted(arr)[-k:]\n```", "gen_duration": 0.6808855999988737}
+{"dataset": "yaml", "task_id": "HumanEval/120", "prompt_id": 120, "execution_id": 5, "response": "```python\ndef maximum(arr, k):\n    return sorted(arr)[-k:]\n```", "gen_duration": 0.4338900000002468}
+{"dataset": "yaml", "task_id": "HumanEval/120", "prompt_id": 120, "execution_id": 6, "response": "```python\ndef maximum(arr, k):\n    return sorted(sorted(arr)[-k:])\n```", "gen_duration": 0.690875700001925}
+{"dataset": "yaml", "task_id": "HumanEval/120", "prompt_id": 120, "execution_id": 7, "response": "```python\ndef maximum(arr, k):\n    return sorted(sorted(arr, reverse=True)[:k])\n```", "gen_duration": 0.7097775000002002}
+{"dataset": "yaml", "task_id": "HumanEval/120", "prompt_id": 120, "execution_id": 8, "response": "```python\ndef maximum(arr, k):\n    return sorted(arr)[-k:]\n```", "gen_duration": 0.6023836000022129}
+{"dataset": "yaml", "task_id": "HumanEval/120", "prompt_id": 120, "execution_id": 9, "response": "```python\ndef maximum(arr, k):\n    return sorted(arr)[-k:]\n```", "gen_duration": 0.5803612000017893}

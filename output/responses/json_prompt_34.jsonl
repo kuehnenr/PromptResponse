@@ -1,0 +1,10 @@
+{"dataset": "json", "task_id": "HumanEval/34", "prompt_id": 34, "execution_id": 0, "response": "```python\ndef unique(l: list):\n    return sorted(set(l))\n```", "gen_duration": 0.7295539999995526}
+{"dataset": "json", "task_id": "HumanEval/34", "prompt_id": 34, "execution_id": 1, "response": "```python\ndef unique(l: list):\n    return sorted(set(l))\n```", "gen_duration": 0.798751700000139}
+{"dataset": "json", "task_id": "HumanEval/34", "prompt_id": 34, "execution_id": 2, "response": "```python\ndef unique(l: list):\n    return sorted(set(l))\n```", "gen_duration": 0.6795810999992682}
+{"dataset": "json", "task_id": "HumanEval/34", "prompt_id": 34, "execution_id": 3, "response": "```python\ndef unique(l: list):\n    return sorted(set(l))\n```", "gen_duration": 0.7477732999996078}
+{"dataset": "json", "task_id": "HumanEval/34", "prompt_id": 34, "execution_id": 4, "response": "```python\ndef unique(l: list):\n    return sorted(set(l))\n```", "gen_duration": 0.7113922000007733}
+{"dataset": "json", "task_id": "HumanEval/34", "prompt_id": 34, "execution_id": 5, "response": "```python\ndef unique(l: list):\n    return sorted(set(l))\n```", "gen_duration": 0.9965844999987894}
+{"dataset": "json", "task_id": "HumanEval/34", "prompt_id": 34, "execution_id": 6, "response": "```python\ndef unique(l: list):\n    return sorted(set(l))\n```", "gen_duration": 0.7217077000004792}
+{"dataset": "json", "task_id": "HumanEval/34", "prompt_id": 34, "execution_id": 7, "response": "```python\ndef unique(l: list):\n    return sorted(set(l))\n```", "gen_duration": 0.7951458999996248}
+{"dataset": "json", "task_id": "HumanEval/34", "prompt_id": 34, "execution_id": 8, "response": "```python\ndef unique(l: list):\n    return sorted(set(l))\n```", "gen_duration": 0.6127587999999378}
+{"dataset": "json", "task_id": "HumanEval/34", "prompt_id": 34, "execution_id": 9, "response": "```python\ndef unique(l: list):\n    return sorted(set(l))\n```", "gen_duration": 0.71961519999968}

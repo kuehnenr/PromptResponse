@@ -1,0 +1,10 @@
+{"dataset": "yaml", "task_id": "HumanEval/30", "prompt_id": 30, "execution_id": 0, "response": "```python\ndef get_positive(l: list):\n    return [i for i in l if i > 0]\n```", "gen_duration": 0.6237755000001926}
+{"dataset": "yaml", "task_id": "HumanEval/30", "prompt_id": 30, "execution_id": 1, "response": "```python\ndef get_positive(l: list):\n    return [x for x in l if x > 0]\n```", "gen_duration": 0.6375556999992114}
+{"dataset": "yaml", "task_id": "HumanEval/30", "prompt_id": 30, "execution_id": 2, "response": "```python\ndef get_positive(l: list):\n    return [x for x in l if x > 0]\n```", "gen_duration": 0.434900899999775}
+{"dataset": "yaml", "task_id": "HumanEval/30", "prompt_id": 30, "execution_id": 3, "response": "```python\ndef get_positive(l: list):\n    return [x for x in l if x > 0]\n```", "gen_duration": 0.5418921999989834}
+{"dataset": "yaml", "task_id": "HumanEval/30", "prompt_id": 30, "execution_id": 4, "response": "```python\ndef get_positive(l: list):\n    return [x for x in l if x > 0]\n```", "gen_duration": 0.6415999999990163}
+{"dataset": "yaml", "task_id": "HumanEval/30", "prompt_id": 30, "execution_id": 5, "response": "```python\ndef get_positive(l: list):\n    return [x for x in l if x > 0]\n```", "gen_duration": 0.6268607999991218}
+{"dataset": "yaml", "task_id": "HumanEval/30", "prompt_id": 30, "execution_id": 6, "response": "```python\ndef get_positive(l: list):\n    return [x for x in l if x > 0]\n```", "gen_duration": 0.8674728000005416}
+{"dataset": "yaml", "task_id": "HumanEval/30", "prompt_id": 30, "execution_id": 7, "response": "```python\ndef get_positive(l: list):\n    return [x for x in l if x > 0]\n```", "gen_duration": 0.7024502000022039}
+{"dataset": "yaml", "task_id": "HumanEval/30", "prompt_id": 30, "execution_id": 8, "response": "```python\ndef get_positive(l: list):\n    return [x for x in l if x > 0]\n```", "gen_duration": 0.5796289999998407}
+{"dataset": "yaml", "task_id": "HumanEval/30", "prompt_id": 30, "execution_id": 9, "response": "```python\ndef get_positive(l: list):\n    return [x for x in l if x > 0]\n```", "gen_duration": 0.7252908999980718}

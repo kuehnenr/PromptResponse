@@ -1,0 +1,10 @@
+{"dataset": "tuned", "task_id": "HumanEval/23", "prompt_id": 23, "execution_id": 0, "response": "```python\ndef strlen(string: str) -> int:\n    return len(string)\n```", "gen_duration": 0.6632951999999932}
+{"dataset": "tuned", "task_id": "HumanEval/23", "prompt_id": 23, "execution_id": 1, "response": "```python\ndef strlen(string: str) -> int:\n    return len(string)\n```", "gen_duration": 0.6617513000001054}
+{"dataset": "tuned", "task_id": "HumanEval/23", "prompt_id": 23, "execution_id": 2, "response": "```python\ndef strlen(string: str) -> int:\n    return len(string)\n```", "gen_duration": 0.49912679999943066}
+{"dataset": "tuned", "task_id": "HumanEval/23", "prompt_id": 23, "execution_id": 3, "response": "```python\ndef strlen(string: str) -> int:\n    return len(string)\n```", "gen_duration": 0.6557709999997314}
+{"dataset": "tuned", "task_id": "HumanEval/23", "prompt_id": 23, "execution_id": 4, "response": "```python\ndef strlen(string: str) -> int:\n    return len(string)\n```", "gen_duration": 0.4678096000006917}
+{"dataset": "tuned", "task_id": "HumanEval/23", "prompt_id": 23, "execution_id": 5, "response": "```python\ndef strlen(string: str) -> int:\n    return len(string)\n```", "gen_duration": 0.42159110000011424}
+{"dataset": "tuned", "task_id": "HumanEval/23", "prompt_id": 23, "execution_id": 6, "response": "```python\ndef strlen(string: str) -> int:\n    return len(string)\n```", "gen_duration": 0.5239761000002545}
+{"dataset": "tuned", "task_id": "HumanEval/23", "prompt_id": 23, "execution_id": 7, "response": "```python\ndef strlen(string: str) -> int:\n    return len(string)\n```", "gen_duration": 1.7120558000005985}
+{"dataset": "tuned", "task_id": "HumanEval/23", "prompt_id": 23, "execution_id": 8, "response": "```python\ndef strlen(string: str) -> int:\n    return len(string)\n```", "gen_duration": 2.417107900000701}
+{"dataset": "tuned", "task_id": "HumanEval/23", "prompt_id": 23, "execution_id": 9, "response": "```python\ndef strlen(string: str) -> int:\n    return len(string)\n```", "gen_duration": 0.8982169000000795}

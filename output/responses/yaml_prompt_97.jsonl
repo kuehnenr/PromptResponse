@@ -1,0 +1,10 @@
+{"dataset": "yaml", "task_id": "HumanEval/97", "prompt_id": 97, "execution_id": 0, "response": "```python\ndef multiply(a, b):\n    return (abs(a) % 10) * (abs(b) % 10)\n```", "gen_duration": 1.0452823999985412}
+{"dataset": "yaml", "task_id": "HumanEval/97", "prompt_id": 97, "execution_id": 1, "response": "```python\ndef multiply(a, b):\n    return (abs(a) % 10) * (abs(b) % 10)\n```", "gen_duration": 1.3032536999999138}
+{"dataset": "yaml", "task_id": "HumanEval/97", "prompt_id": 97, "execution_id": 2, "response": "```python\ndef multiply(a, b):\n    return (abs(a) % 10) * (abs(b) % 10)\n```", "gen_duration": 0.7656738000005134}
+{"dataset": "yaml", "task_id": "HumanEval/97", "prompt_id": 97, "execution_id": 3, "response": "```python\ndef multiply(a, b):\n    return (abs(a) % 10) * (abs(b) % 10)\n```", "gen_duration": 0.8288348999994923}
+{"dataset": "yaml", "task_id": "HumanEval/97", "prompt_id": 97, "execution_id": 4, "response": "```python\ndef multiply(a, b):\n    return (abs(a) % 10) * (abs(b) % 10)\n```", "gen_duration": 0.8853296000015689}
+{"dataset": "yaml", "task_id": "HumanEval/97", "prompt_id": 97, "execution_id": 5, "response": "```python\ndef multiply(a, b):\n    return (abs(a) % 10) * (abs(b) % 10)\n```", "gen_duration": 0.9802358999986609}
+{"dataset": "yaml", "task_id": "HumanEval/97", "prompt_id": 97, "execution_id": 6, "response": "```python\ndef multiply(a, b):\n    return (abs(a) % 10) * (abs(b) % 10)\n```", "gen_duration": 0.9083642000005057}
+{"dataset": "yaml", "task_id": "HumanEval/97", "prompt_id": 97, "execution_id": 7, "response": "```python\ndef multiply(a, b):\n    return (abs(a) % 10) * (abs(b) % 10)\n```", "gen_duration": 0.6589324999986275}
+{"dataset": "yaml", "task_id": "HumanEval/97", "prompt_id": 97, "execution_id": 8, "response": "```python\ndef multiply(a, b):\n    return (abs(a) % 10) * (abs(b) % 10)\n```", "gen_duration": 1.4904272999992827}
+{"dataset": "yaml", "task_id": "HumanEval/97", "prompt_id": 97, "execution_id": 9, "response": "```python\ndef multiply(a, b):\n    return (abs(a) % 10) * (abs(b) % 10)\n```", "gen_duration": 0.8082471000016085}

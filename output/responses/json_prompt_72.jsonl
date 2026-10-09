@@ -1,0 +1,10 @@
+{"dataset": "json", "task_id": "HumanEval/72", "prompt_id": 72, "execution_id": 0, "response": "```python\ndef will_it_fly(q, w):\n    return q == q[::-1] and sum(q) <= w\n```", "gen_duration": 0.5174564000008104}
+{"dataset": "json", "task_id": "HumanEval/72", "prompt_id": 72, "execution_id": 1, "response": "```python\ndef will_it_fly(q, w):\n    return q == q[::-1] and sum(q) <= w\n```", "gen_duration": 0.7466963000006217}
+{"dataset": "json", "task_id": "HumanEval/72", "prompt_id": 72, "execution_id": 2, "response": "```python\ndef will_it_fly(q, w):\n    return q == q[::-1] and sum(q) <= w\n```", "gen_duration": 0.5683239999998477}
+{"dataset": "json", "task_id": "HumanEval/72", "prompt_id": 72, "execution_id": 3, "response": "```python\ndef will_it_fly(q, w):\n    return q == q[::-1] and sum(q) <= w\n```", "gen_duration": 0.6847280000001774}
+{"dataset": "json", "task_id": "HumanEval/72", "prompt_id": 72, "execution_id": 4, "response": "```python\ndef will_it_fly(q, w):\n    return q == q[::-1] and sum(q) <= w\n```", "gen_duration": 0.5789538999997603}
+{"dataset": "json", "task_id": "HumanEval/72", "prompt_id": 72, "execution_id": 5, "response": "```python\ndef will_it_fly(q, w):\n    return q == q[::-1] and sum(q) <= w\n```", "gen_duration": 0.8737579000007827}
+{"dataset": "json", "task_id": "HumanEval/72", "prompt_id": 72, "execution_id": 6, "response": "```python\ndef will_it_fly(q, w):\n    return q == q[::-1] and sum(q) <= w\n```", "gen_duration": 0.7459684999994352}
+{"dataset": "json", "task_id": "HumanEval/72", "prompt_id": 72, "execution_id": 7, "response": "```python\ndef will_it_fly(q, w):\n    return q == q[::-1] and sum(q) <= w\n```", "gen_duration": 0.61151880000034}
+{"dataset": "json", "task_id": "HumanEval/72", "prompt_id": 72, "execution_id": 8, "response": "```python\ndef will_it_fly(q, w):\n    return q == q[::-1] and sum(q) <= w\n```", "gen_duration": 0.634345200000098}
+{"dataset": "json", "task_id": "HumanEval/72", "prompt_id": 72, "execution_id": 9, "response": "```python\ndef will_it_fly(q, w):\n    return q == q[::-1] and sum(q) <= w\n```", "gen_duration": 1.1512332000002061}

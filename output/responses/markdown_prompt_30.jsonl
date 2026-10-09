@@ -1,0 +1,10 @@
+{"dataset": "markdown", "task_id": "HumanEval/30", "prompt_id": 30, "execution_id": 0, "response": "```python\ndef get_positive(l: list):\n    return [x for x in l if x > 0]\n```", "gen_duration": 0.6393476000012015}
+{"dataset": "markdown", "task_id": "HumanEval/30", "prompt_id": 30, "execution_id": 1, "response": "```python\ndef get_positive(l: list):\n    return [x for x in l if x > 0]\n```", "gen_duration": 0.5490834999982326}
+{"dataset": "markdown", "task_id": "HumanEval/30", "prompt_id": 30, "execution_id": 2, "response": "```python\ndef get_positive(l: list):\n    return [x for x in l if x > 0]\n```", "gen_duration": 0.6830406000008225}
+{"dataset": "markdown", "task_id": "HumanEval/30", "prompt_id": 30, "execution_id": 3, "response": "```python\ndef get_positive(l: list):\n    return [x for x in l if x > 0]\n```", "gen_duration": 0.6666153000005579}
+{"dataset": "markdown", "task_id": "HumanEval/30", "prompt_id": 30, "execution_id": 4, "response": "```python\ndef get_positive(l: list):\n    return [x for x in l if x > 0]\n```", "gen_duration": 2.5983453999979247}
+{"dataset": "markdown", "task_id": "HumanEval/30", "prompt_id": 30, "execution_id": 5, "response": "```python\ndef get_positive(l: list):\n    return [x for x in l if x > 0]\n```", "gen_duration": 0.6540434999988065}
+{"dataset": "markdown", "task_id": "HumanEval/30", "prompt_id": 30, "execution_id": 6, "response": "```python\ndef get_positive(l: list):\n    return [x for x in l if x > 0]\n```", "gen_duration": 0.6780357000025106}
+{"dataset": "markdown", "task_id": "HumanEval/30", "prompt_id": 30, "execution_id": 7, "response": "```python\ndef get_positive(l: list):\n    return [x for x in l if x > 0]\n```", "gen_duration": 0.644535100000212}
+{"dataset": "markdown", "task_id": "HumanEval/30", "prompt_id": 30, "execution_id": 8, "response": "```python\ndef get_positive(l: list):\n    return [x for x in l if x > 0]\n```", "gen_duration": 0.6367270000009739}
+{"dataset": "markdown", "task_id": "HumanEval/30", "prompt_id": 30, "execution_id": 9, "response": "```python\ndef get_positive(l: list):\n    return [x for x in l if x > 0]\n```", "gen_duration": 0.7706555999975535}

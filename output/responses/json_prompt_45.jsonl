@@ -1,0 +1,10 @@
+{"dataset": "json", "task_id": "HumanEval/45", "prompt_id": 45, "execution_id": 0, "response": "```python\ndef triangle_area(a, h):\n    return 0.5 * a * h\n```", "gen_duration": 0.630167999999685}
+{"dataset": "json", "task_id": "HumanEval/45", "prompt_id": 45, "execution_id": 1, "response": "```python\ndef triangle_area(a, h):\n    return 0.5 * a * h\n```", "gen_duration": 0.6334363000005396}
+{"dataset": "json", "task_id": "HumanEval/45", "prompt_id": 45, "execution_id": 2, "response": "```python\ndef triangle_area(a, h):\n    return 0.5 * a * h\n```", "gen_duration": 1.0764916999996785}
+{"dataset": "json", "task_id": "HumanEval/45", "prompt_id": 45, "execution_id": 3, "response": "```python\ndef triangle_area(a, h):\n    return 0.5 * a * h\n```", "gen_duration": 0.7693423999990046}
+{"dataset": "json", "task_id": "HumanEval/45", "prompt_id": 45, "execution_id": 4, "response": "```python\ndef triangle_area(a, h):\n    return 0.5 * a * h\n```", "gen_duration": 2.6438417000008485}
+{"dataset": "json", "task_id": "HumanEval/45", "prompt_id": 45, "execution_id": 5, "response": "```python\ndef triangle_area(a, h):\n    return 0.5 * a * h\n```", "gen_duration": 0.6726840999999695}
+{"dataset": "json", "task_id": "HumanEval/45", "prompt_id": 45, "execution_id": 6, "response": "```python\ndef triangle_area(a, h):\n    return 0.5 * a * h\n```", "gen_duration": 1.0810194999994565}
+{"dataset": "json", "task_id": "HumanEval/45", "prompt_id": 45, "execution_id": 7, "response": "```python\ndef triangle_area(a, h):\n    return 0.5 * a * h\n```", "gen_duration": 0.6803663999999117}
+{"dataset": "json", "task_id": "HumanEval/45", "prompt_id": 45, "execution_id": 8, "response": "```python\ndef triangle_area(a, h):\n    return 0.5 * a * h\n```", "gen_duration": 0.81959100000131}
+{"dataset": "json", "task_id": "HumanEval/45", "prompt_id": 45, "execution_id": 9, "response": "```python\ndef triangle_area(a, h):\n    return 0.5 * a * h\n```", "gen_duration": 0.7778060000000551}

@@ -1,0 +1,10 @@
+{"dataset": "yaml", "task_id": "HumanEval/23", "prompt_id": 23, "execution_id": 0, "response": "```python\ndef strlen(string: str) -> int:\n    return len(string)\n```", "gen_duration": 0.4924960000025749}
+{"dataset": "yaml", "task_id": "HumanEval/23", "prompt_id": 23, "execution_id": 1, "response": "```python\ndef strlen(string: str) -> int:\n    return len(string)\n```", "gen_duration": 0.5505919999995967}
+{"dataset": "yaml", "task_id": "HumanEval/23", "prompt_id": 23, "execution_id": 2, "response": "```python\ndef strlen(string: str) -> int:\n    return len(string)\n```", "gen_duration": 0.4598701000031724}
+{"dataset": "yaml", "task_id": "HumanEval/23", "prompt_id": 23, "execution_id": 3, "response": "```python\ndef strlen(string: str) -> int:\n    return len(string)\n```", "gen_duration": 0.6598124999982247}
+{"dataset": "yaml", "task_id": "HumanEval/23", "prompt_id": 23, "execution_id": 4, "response": "```python\ndef strlen(string: str) -> int:\n    return len(string)\n```", "gen_duration": 0.5214078999997582}
+{"dataset": "yaml", "task_id": "HumanEval/23", "prompt_id": 23, "execution_id": 5, "response": "```python\ndef strlen(string: str) -> int:\n    return len(string)\n```", "gen_duration": 0.7482177999991109}
+{"dataset": "yaml", "task_id": "HumanEval/23", "prompt_id": 23, "execution_id": 6, "response": "```python\ndef strlen(string: str) -> int:\n    return len(string)\n```", "gen_duration": 0.5471933000007994}
+{"dataset": "yaml", "task_id": "HumanEval/23", "prompt_id": 23, "execution_id": 7, "response": "```python\ndef strlen(string: str) -> int:\n    return len(string)\n```", "gen_duration": 0.6330877000000328}
+{"dataset": "yaml", "task_id": "HumanEval/23", "prompt_id": 23, "execution_id": 8, "response": "```python\ndef strlen(string: str) -> int:\n    return len(string)\n```", "gen_duration": 0.5293635000016366}
+{"dataset": "yaml", "task_id": "HumanEval/23", "prompt_id": 23, "execution_id": 9, "response": "```python\ndef strlen(string: str) -> int:\n    return len(string)\n```", "gen_duration": 0.5168350999992981}

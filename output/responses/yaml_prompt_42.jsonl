@@ -1,0 +1,10 @@
+{"dataset": "yaml", "task_id": "HumanEval/42", "prompt_id": 42, "execution_id": 0, "response": "```python\ndef incr_list(l: list):\n    return [x + 1 for x in l]\n```", "gen_duration": 0.7590074999970966}
+{"dataset": "yaml", "task_id": "HumanEval/42", "prompt_id": 42, "execution_id": 1, "response": "```python\ndef incr_list(l: list):\n    return [x + 1 for x in l]\n```", "gen_duration": 1.0768285999984073}
+{"dataset": "yaml", "task_id": "HumanEval/42", "prompt_id": 42, "execution_id": 2, "response": "```python\ndef incr_list(l: list):\n    return [x + 1 for x in l]\n```", "gen_duration": 0.6695951000001514}
+{"dataset": "yaml", "task_id": "HumanEval/42", "prompt_id": 42, "execution_id": 3, "response": "```python\ndef incr_list(l: list):\n    return [x + 1 for x in l]\n```", "gen_duration": 1.0483414999980596}
+{"dataset": "yaml", "task_id": "HumanEval/42", "prompt_id": 42, "execution_id": 4, "response": "```python\ndef incr_list(l: list):\n    return [x + 1 for x in l]\n```", "gen_duration": 0.889278499998909}
+{"dataset": "yaml", "task_id": "HumanEval/42", "prompt_id": 42, "execution_id": 5, "response": "```python\ndef incr_list(l: list):\n    return [x + 1 for x in l]\n```", "gen_duration": 0.8688040000015462}
+{"dataset": "yaml", "task_id": "HumanEval/42", "prompt_id": 42, "execution_id": 6, "response": "```python\ndef incr_list(l: list):\n    return [x + 1 for x in l]\n```", "gen_duration": 0.9975440000016533}
+{"dataset": "yaml", "task_id": "HumanEval/42", "prompt_id": 42, "execution_id": 7, "response": "```python\ndef incr_list(l: list):\n    return [x + 1 for x in l]\n```", "gen_duration": 0.8912676999971154}
+{"dataset": "yaml", "task_id": "HumanEval/42", "prompt_id": 42, "execution_id": 8, "response": "```python\ndef incr_list(l: list):\n    return [x + 1 for x in l]\n```", "gen_duration": 0.7754783000018506}
+{"dataset": "yaml", "task_id": "HumanEval/42", "prompt_id": 42, "execution_id": 9, "response": "```python\ndef incr_list(l: list):\n    return [x + 1 for x in l]\n```", "gen_duration": 1.262594200001331}

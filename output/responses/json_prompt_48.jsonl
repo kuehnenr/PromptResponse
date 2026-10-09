@@ -1,0 +1,10 @@
+{"dataset": "json", "task_id": "HumanEval/48", "prompt_id": 48, "execution_id": 0, "response": "```python\ndef is_palindrome(text: str):\n    return text == text[::-1]\n```", "gen_duration": 2.1026555000007647}
+{"dataset": "json", "task_id": "HumanEval/48", "prompt_id": 48, "execution_id": 1, "response": "```python\ndef is_palindrome(text: str):\n    return text == text[::-1]\n```", "gen_duration": 0.7917092999996385}
+{"dataset": "json", "task_id": "HumanEval/48", "prompt_id": 48, "execution_id": 2, "response": "```python\ndef is_palindrome(text: str):\n    return text == text[::-1]\n```", "gen_duration": 0.8076407000007748}
+{"dataset": "json", "task_id": "HumanEval/48", "prompt_id": 48, "execution_id": 3, "response": "```python\ndef is_palindrome(text: str):\n    return text == text[::-1]\n```", "gen_duration": 0.7728925999999774}
+{"dataset": "json", "task_id": "HumanEval/48", "prompt_id": 48, "execution_id": 4, "response": "```python\ndef is_palindrome(text: str):\n    return text == text[::-1]\n```", "gen_duration": 0.7213780000001861}
+{"dataset": "json", "task_id": "HumanEval/48", "prompt_id": 48, "execution_id": 5, "response": "```python\ndef is_palindrome(text: str):\n    return text == text[::-1]\n```", "gen_duration": 0.7673821000007592}
+{"dataset": "json", "task_id": "HumanEval/48", "prompt_id": 48, "execution_id": 6, "response": "```python\ndef is_palindrome(text: str):\n    return text == text[::-1]\n```", "gen_duration": 0.5730922000002465}
+{"dataset": "json", "task_id": "HumanEval/48", "prompt_id": 48, "execution_id": 7, "response": "```python\ndef is_palindrome(text: str):\n    return text == text[::-1]\n```", "gen_duration": 0.6039164000012534}
+{"dataset": "json", "task_id": "HumanEval/48", "prompt_id": 48, "execution_id": 8, "response": "```python\ndef is_palindrome(text: str):\n    return text == text[::-1]\n```", "gen_duration": 0.7195206999986112}
+{"dataset": "json", "task_id": "HumanEval/48", "prompt_id": 48, "execution_id": 9, "response": "```python\ndef is_palindrome(text: str):\n    return text == text[::-1]\n```", "gen_duration": 0.5995414000008168}

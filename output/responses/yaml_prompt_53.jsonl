@@ -1,0 +1,10 @@
+{"dataset": "yaml", "task_id": "HumanEval/53", "prompt_id": 53, "execution_id": 0, "response": "```python\ndef add(x: int, y: int) -> int:\n    return x + y\n```", "gen_duration": 0.816866500001197}
+{"dataset": "yaml", "task_id": "HumanEval/53", "prompt_id": 53, "execution_id": 1, "response": "```python\ndef add(x: int, y: int) -> int:\n    return x + y\n```", "gen_duration": 0.6259061000018846}
+{"dataset": "yaml", "task_id": "HumanEval/53", "prompt_id": 53, "execution_id": 2, "response": "```python\ndef add(x: int, y: int) -> int:\n    return x + y\n```", "gen_duration": 0.759028299999045}
+{"dataset": "yaml", "task_id": "HumanEval/53", "prompt_id": 53, "execution_id": 3, "response": "```python\ndef add(x: int, y: int) -> int:\n    return x + y\n```", "gen_duration": 0.6842163000001165}
+{"dataset": "yaml", "task_id": "HumanEval/53", "prompt_id": 53, "execution_id": 4, "response": "```python\ndef add(x: int, y: int) -> int:\n    return x + y\n```", "gen_duration": 0.7401783999994223}
+{"dataset": "yaml", "task_id": "HumanEval/53", "prompt_id": 53, "execution_id": 5, "response": "```python\ndef add(x: int, y: int) -> int:\n    return x + y\n```", "gen_duration": 0.5665267000003951}
+{"dataset": "yaml", "task_id": "HumanEval/53", "prompt_id": 53, "execution_id": 6, "response": "```python\ndef add(x: int, y: int) -> int:\n    return x + y\n```", "gen_duration": 0.6995830999985628}
+{"dataset": "yaml", "task_id": "HumanEval/53", "prompt_id": 53, "execution_id": 7, "response": "```python\ndef add(x: int, y: int) -> int:\n    return x + y\n```", "gen_duration": 0.823026199999731}
+{"dataset": "yaml", "task_id": "HumanEval/53", "prompt_id": 53, "execution_id": 8, "response": "```python\ndef add(x: int, y: int) -> int:\n    return x + y\n```", "gen_duration": 0.6597026999988884}
+{"dataset": "yaml", "task_id": "HumanEval/53", "prompt_id": 53, "execution_id": 9, "response": "```python\ndef add(x: int, y: int) -> int:\n    return x + y\n```", "gen_duration": 1.3050117000020691}

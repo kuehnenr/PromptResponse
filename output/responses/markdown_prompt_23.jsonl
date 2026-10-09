@@ -1,0 +1,10 @@
+{"dataset": "markdown", "task_id": "HumanEval/23", "prompt_id": 23, "execution_id": 0, "response": "```python\ndef strlen(string: str) -> int:\n    return len(string)\n```", "gen_duration": 1.251612699998077}
+{"dataset": "markdown", "task_id": "HumanEval/23", "prompt_id": 23, "execution_id": 1, "response": "```python\ndef strlen(string: str) -> int:\n    return len(string)\n```", "gen_duration": 0.617790000000241}
+{"dataset": "markdown", "task_id": "HumanEval/23", "prompt_id": 23, "execution_id": 2, "response": "```python\ndef strlen(string: str) -> int:\n    return len(string)\n```", "gen_duration": 0.6925948000025528}
+{"dataset": "markdown", "task_id": "HumanEval/23", "prompt_id": 23, "execution_id": 3, "response": "```python\ndef strlen(string: str) -> int:\n    return len(string)\n```", "gen_duration": 0.892865099998744}
+{"dataset": "markdown", "task_id": "HumanEval/23", "prompt_id": 23, "execution_id": 4, "response": "```python\ndef strlen(string: str) -> int:\n    return len(string)\n```", "gen_duration": 0.81450539999787}
+{"dataset": "markdown", "task_id": "HumanEval/23", "prompt_id": 23, "execution_id": 5, "response": "```python\ndef strlen(string: str) -> int:\n    return len(string)\n```", "gen_duration": 0.7570050000031188}
+{"dataset": "markdown", "task_id": "HumanEval/23", "prompt_id": 23, "execution_id": 6, "response": "```python\ndef strlen(string: str) -> int:\n    return len(string)\n```", "gen_duration": 0.8093172999979288}
+{"dataset": "markdown", "task_id": "HumanEval/23", "prompt_id": 23, "execution_id": 7, "response": "```python\ndef strlen(string: str) -> int:\n    return len(string)\n```", "gen_duration": 0.5972304999995686}
+{"dataset": "markdown", "task_id": "HumanEval/23", "prompt_id": 23, "execution_id": 8, "response": "```python\ndef strlen(string: str) -> int:\n    return len(string)\n```", "gen_duration": 1.2518588000020827}
+{"dataset": "markdown", "task_id": "HumanEval/23", "prompt_id": 23, "execution_id": 9, "response": "```python\ndef strlen(string: str) -> int:\n    return len(string)\n```", "gen_duration": 0.7490450000004785}

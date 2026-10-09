@@ -1,0 +1,10 @@
+{"dataset": "json", "task_id": "HumanEval/49", "prompt_id": 49, "execution_id": 0, "response": "```python\ndef modp(n: int, p: int):\n    return pow(2, n, p)\n```", "gen_duration": 0.8216984000009688}
+{"dataset": "json", "task_id": "HumanEval/49", "prompt_id": 49, "execution_id": 1, "response": "```python\ndef modp(n: int, p: int):\n    return pow(2, n, p)\n```", "gen_duration": 1.6272267000003922}
+{"dataset": "json", "task_id": "HumanEval/49", "prompt_id": 49, "execution_id": 2, "response": "```python\ndef modp(n: int, p: int):\n    return pow(2, n, p)\n```", "gen_duration": 1.6737446000006457}
+{"dataset": "json", "task_id": "HumanEval/49", "prompt_id": 49, "execution_id": 3, "response": "```python\ndef modp(n: int, p: int):\n    return pow(2, n, p)\n```", "gen_duration": 0.8992388000006031}
+{"dataset": "json", "task_id": "HumanEval/49", "prompt_id": 49, "execution_id": 4, "response": "```python\ndef modp(n: int, p: int):\n    return pow(2, n, p)\n```", "gen_duration": 0.7384172999991279}
+{"dataset": "json", "task_id": "HumanEval/49", "prompt_id": 49, "execution_id": 5, "response": "```python\ndef modp(n: int, p: int):\n    return pow(2, n, p)\n```", "gen_duration": 1.3132272999991983}
+{"dataset": "json", "task_id": "HumanEval/49", "prompt_id": 49, "execution_id": 6, "response": "```python\ndef modp(n: int, p: int):\n    return pow(2, n, p)\n```", "gen_duration": 0.7488009999997303}
+{"dataset": "json", "task_id": "HumanEval/49", "prompt_id": 49, "execution_id": 7, "response": "```python\ndef modp(n: int, p: int):\n    return pow(2, n, p)\n```", "gen_duration": 1.2744784000005893}
+{"dataset": "json", "task_id": "HumanEval/49", "prompt_id": 49, "execution_id": 8, "response": "```python\ndef modp(n: int, p: int):\n    return pow(2, n, p)\n```", "gen_duration": 0.8905825999991066}
+{"dataset": "json", "task_id": "HumanEval/49", "prompt_id": 49, "execution_id": 9, "response": "```python\ndef modp(n: int, p: int):\n    return pow(2, n, p)\n```", "gen_duration": 0.7048503000005439}

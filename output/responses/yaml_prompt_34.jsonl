@@ -1,0 +1,10 @@
+{"dataset": "yaml", "task_id": "HumanEval/34", "prompt_id": 34, "execution_id": 0, "response": "```python\ndef unique(l: list):\n    return sorted(set(l))\n```", "gen_duration": 0.9477073000016389}
+{"dataset": "yaml", "task_id": "HumanEval/34", "prompt_id": 34, "execution_id": 1, "response": "```python\ndef unique(l: list):\n    return sorted(set(l))\n```", "gen_duration": 0.8978261999982351}
+{"dataset": "yaml", "task_id": "HumanEval/34", "prompt_id": 34, "execution_id": 2, "response": "```python\ndef unique(l: list):\n    return sorted(set(l))\n```", "gen_duration": 0.6647130999990623}
+{"dataset": "yaml", "task_id": "HumanEval/34", "prompt_id": 34, "execution_id": 3, "response": "```python\ndef unique(l: list):\n    return sorted(set(l))\n```", "gen_duration": 0.7674288999987766}
+{"dataset": "yaml", "task_id": "HumanEval/34", "prompt_id": 34, "execution_id": 4, "response": "```python\ndef unique(l: list):\n    return sorted(set(l))\n```", "gen_duration": 0.6890868000009505}
+{"dataset": "yaml", "task_id": "HumanEval/34", "prompt_id": 34, "execution_id": 5, "response": "```python\ndef unique(l: list):\n    return sorted(set(l))\n```", "gen_duration": 2.0917278999986593}
+{"dataset": "yaml", "task_id": "HumanEval/34", "prompt_id": 34, "execution_id": 6, "response": "```python\ndef unique(l: list):\n    return sorted(set(l))\n```", "gen_duration": 0.8665357999998378}
+{"dataset": "yaml", "task_id": "HumanEval/34", "prompt_id": 34, "execution_id": 7, "response": "```python\ndef unique(l: list):\n    return sorted(set(l))\n```", "gen_duration": 0.8455949999988661}
+{"dataset": "yaml", "task_id": "HumanEval/34", "prompt_id": 34, "execution_id": 8, "response": "```python\ndef unique(l: list):\n    return sorted(set(l))\n```", "gen_duration": 0.7666608999970776}
+{"dataset": "yaml", "task_id": "HumanEval/34", "prompt_id": 34, "execution_id": 9, "response": "```python\ndef unique(l: list):\n    return sorted(set(l))\n```", "gen_duration": 0.865078299997549}

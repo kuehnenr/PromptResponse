@@ -1,0 +1,10 @@
+{"dataset": "markdown", "task_id": "HumanEval/41", "prompt_id": 41, "execution_id": 0, "response": "```python\ndef car_race_collision(n: int) -> int:\n    return n\n```", "gen_duration": 0.7302039000023797}
+{"dataset": "markdown", "task_id": "HumanEval/41", "prompt_id": 41, "execution_id": 1, "response": "```python\ndef car_race_collision(n: int) -> int:\n    return n\n```", "gen_duration": 0.8108501999995497}
+{"dataset": "markdown", "task_id": "HumanEval/41", "prompt_id": 41, "execution_id": 2, "response": "```python\ndef car_race_collision(n: int) -> int:\n    return n\n```", "gen_duration": 0.792507399997703}
+{"dataset": "markdown", "task_id": "HumanEval/41", "prompt_id": 41, "execution_id": 3, "response": "```python\ndef car_race_collision(n: int):\n    return n\n```", "gen_duration": 0.7669623000001593}
+{"dataset": "markdown", "task_id": "HumanEval/41", "prompt_id": 41, "execution_id": 4, "response": "```python\ndef car_race_collision(n: int) -> int:\n    return n\n```", "gen_duration": 0.974763799997163}
+{"dataset": "markdown", "task_id": "HumanEval/41", "prompt_id": 41, "execution_id": 5, "response": "```python\ndef car_race_collision(n: int) -> int:\n    return n\n```", "gen_duration": 1.1194073000006028}
+{"dataset": "markdown", "task_id": "HumanEval/41", "prompt_id": 41, "execution_id": 6, "response": "```python\ndef car_race_collision(n: int):\n    return n\n```", "gen_duration": 0.8908250000022235}
+{"dataset": "markdown", "task_id": "HumanEval/41", "prompt_id": 41, "execution_id": 7, "response": "```python\ndef car_race_collision(n: int) -> int:\n    return n\n```", "gen_duration": 0.7813561000002665}
+{"dataset": "markdown", "task_id": "HumanEval/41", "prompt_id": 41, "execution_id": 8, "response": "```python\ndef car_race_collision(n: int):\n    return n\n```", "gen_duration": 0.7317636999978276}
+{"dataset": "markdown", "task_id": "HumanEval/41", "prompt_id": 41, "execution_id": 9, "response": "```python\ndef car_race_collision(n: int) -> int:\n    return n\n```", "gen_duration": 0.7555489000005764}

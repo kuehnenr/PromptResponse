@@ -1,0 +1,10 @@
+{"dataset": "tuned", "task_id": "HumanEval/53", "prompt_id": 53, "execution_id": 0, "response": "```python\ndef add(x: int, y: int) -> int:\n    return x + y\n```", "gen_duration": 0.8462002999995093}
+{"dataset": "tuned", "task_id": "HumanEval/53", "prompt_id": 53, "execution_id": 1, "response": "```python\ndef add(x: int, y: int) -> int:\n    return x + y\n```", "gen_duration": 0.9055770000004486}
+{"dataset": "tuned", "task_id": "HumanEval/53", "prompt_id": 53, "execution_id": 2, "response": "```python\ndef add(x: int, y: int) -> int:\n    return x + y\n```", "gen_duration": 0.7838439999995899}
+{"dataset": "tuned", "task_id": "HumanEval/53", "prompt_id": 53, "execution_id": 3, "response": "```python\ndef add(x: int, y: int):\n    return x + y\n```", "gen_duration": 1.9608377000004111}
+{"dataset": "tuned", "task_id": "HumanEval/53", "prompt_id": 53, "execution_id": 4, "response": "```python\ndef add(x: int, y: int) -> int:\n    return x + y\n```", "gen_duration": 1.3567017000004853}
+{"dataset": "tuned", "task_id": "HumanEval/53", "prompt_id": 53, "execution_id": 5, "response": "```python\ndef add(x: int, y: int) -> int:\n    return x + y\n```", "gen_duration": 1.1673607000002448}
+{"dataset": "tuned", "task_id": "HumanEval/53", "prompt_id": 53, "execution_id": 6, "response": "```python\ndef add(x: int, y: int) -> int:\n    return x + y\n```", "gen_duration": 0.9061232000003656}
+{"dataset": "tuned", "task_id": "HumanEval/53", "prompt_id": 53, "execution_id": 7, "response": "```python\ndef add(x: int, y: int) -> int:\n    return x + y\n```", "gen_duration": 0.7806554999997388}
+{"dataset": "tuned", "task_id": "HumanEval/53", "prompt_id": 53, "execution_id": 8, "response": "```python\ndef add(x: int, y: int) -> int:\n    return x + y\n```", "gen_duration": 2.6525572000000466}
+{"dataset": "tuned", "task_id": "HumanEval/53", "prompt_id": 53, "execution_id": 9, "response": "```python\ndef add(x: int, y: int) -> int:\n    return x + y\n```", "gen_duration": 0.5089838999992935}

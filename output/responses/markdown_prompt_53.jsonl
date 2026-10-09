@@ -1,0 +1,10 @@
+{"dataset": "markdown", "task_id": "HumanEval/53", "prompt_id": 53, "execution_id": 0, "response": "```python\ndef add(x: int, y: int):\n    return x + y\n```", "gen_duration": 0.6195069999994303}
+{"dataset": "markdown", "task_id": "HumanEval/53", "prompt_id": 53, "execution_id": 1, "response": "```python\ndef add(x: int, y: int):\n    return x + y\n```", "gen_duration": 0.9181204000014986}
+{"dataset": "markdown", "task_id": "HumanEval/53", "prompt_id": 53, "execution_id": 2, "response": "```python\ndef add(x: int, y: int):\n    return x + y\n```", "gen_duration": 0.8827010999993945}
+{"dataset": "markdown", "task_id": "HumanEval/53", "prompt_id": 53, "execution_id": 3, "response": "```python\ndef add(x: int, y: int):\n    return x + y\n```", "gen_duration": 0.5717904000011913}
+{"dataset": "markdown", "task_id": "HumanEval/53", "prompt_id": 53, "execution_id": 4, "response": "```python\ndef add(x: int, y: int):\n    return x + y\n```", "gen_duration": 0.5675269999992452}
+{"dataset": "markdown", "task_id": "HumanEval/53", "prompt_id": 53, "execution_id": 5, "response": "```python\ndef add(x: int, y: int):\n    return x + y\n```", "gen_duration": 0.7866611000026751}
+{"dataset": "markdown", "task_id": "HumanEval/53", "prompt_id": 53, "execution_id": 6, "response": "```python\ndef add(x: int, y: int):\n    return x + y\n```", "gen_duration": 0.7801401000033366}
+{"dataset": "markdown", "task_id": "HumanEval/53", "prompt_id": 53, "execution_id": 7, "response": "```python\ndef add(x: int, y: int):\n    return x + y\n```", "gen_duration": 0.8494756000000052}
+{"dataset": "markdown", "task_id": "HumanEval/53", "prompt_id": 53, "execution_id": 8, "response": "```python\ndef add(x: int, y: int):\n    return x + y\n```", "gen_duration": 0.5910734000026423}
+{"dataset": "markdown", "task_id": "HumanEval/53", "prompt_id": 53, "execution_id": 9, "response": "```python\ndef add(x: int, y: int):\n    return x + y\n```", "gen_duration": 0.7218257999993511}

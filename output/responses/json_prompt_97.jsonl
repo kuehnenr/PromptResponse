@@ -1,0 +1,10 @@
+{"dataset": "json", "task_id": "HumanEval/97", "prompt_id": 97, "execution_id": 0, "response": "```python\ndef multiply(a, b):\n    return (abs(a) % 10) * (abs(b) % 10)\n```", "gen_duration": 0.7763518000010663}
+{"dataset": "json", "task_id": "HumanEval/97", "prompt_id": 97, "execution_id": 1, "response": "```python\ndef multiply(a, b):\n    return (abs(a) % 10) * (abs(b) % 10)\n```", "gen_duration": 1.2945793000017147}
+{"dataset": "json", "task_id": "HumanEval/97", "prompt_id": 97, "execution_id": 2, "response": "```python\ndef multiply(a, b):\n    return (abs(a) % 10) * (abs(b) % 10)\n```", "gen_duration": 1.1401433999999426}
+{"dataset": "json", "task_id": "HumanEval/97", "prompt_id": 97, "execution_id": 3, "response": "```python\ndef multiply(a, b):\n    return abs((a % 10) * (b % 10))\n```", "gen_duration": 0.6047546999998303}
+{"dataset": "json", "task_id": "HumanEval/97", "prompt_id": 97, "execution_id": 4, "response": "```python\ndef multiply(a, b):\n    return (abs(a) % 10) * (abs(b) % 10)\n```", "gen_duration": 1.576941799999986}
+{"dataset": "json", "task_id": "HumanEval/97", "prompt_id": 97, "execution_id": 5, "response": "```python\ndef multiply(a, b):\n    return abs((a % 10) * (b % 10))\n```", "gen_duration": 0.685214499999347}
+{"dataset": "json", "task_id": "HumanEval/97", "prompt_id": 97, "execution_id": 6, "response": "```python\ndef multiply(a, b):\n    return (abs(a) % 10) * (abs(b) % 10)\n```", "gen_duration": 1.392319700000371}
+{"dataset": "json", "task_id": "HumanEval/97", "prompt_id": 97, "execution_id": 7, "response": "```python\ndef multiply(a, b):\n    return (a % 10) * (b % 10)\n```", "gen_duration": 0.8107442000000447}
+{"dataset": "json", "task_id": "HumanEval/97", "prompt_id": 97, "execution_id": 8, "response": "```python\ndef multiply(a, b):\n    return (a % 10) * (b % 10)\n```", "gen_duration": 1.3331858000001375}
+{"dataset": "json", "task_id": "HumanEval/97", "prompt_id": 97, "execution_id": 9, "response": "```python\ndef multiply(a, b):\n    return (abs(a) % 10) * (abs(b) % 10)\n```", "gen_duration": 1.2714541999994253}
